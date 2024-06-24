@@ -1,0 +1,16 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Glass
+  1: Gloves
+  2: Helmet
+  3: No Helmet
+  4: No-Glove
+  5: No-Helmet
+  6: No-Vest
+  7: Safety-Boot
+  8: Safety-Vest
